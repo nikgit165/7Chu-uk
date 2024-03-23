@@ -1,0 +1,9 @@
+#wonders .main-text{
+    padding-top: 50px;
+}
+
+.main-img{
+    height: 250px;
+    width: 500px;
+    transform: translate(35cm, -40cm);
+}
